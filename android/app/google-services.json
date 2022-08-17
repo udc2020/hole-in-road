@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982005161060",
+    "project_id": "holeinraodapp",
+    "storage_bucket": "holeinraodapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982005161060:android:4d7530b5b0311432741371",
+        "android_client_info": {
+          "package_name": "com.example.hole_in_road"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982005161060-415rspuoq422o6m247g972kc700703bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu-t8ReK_3mWjQ7et3qtrDydzhGPYi820"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982005161060-415rspuoq422o6m247g972kc700703bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
