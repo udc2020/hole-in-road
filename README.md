@@ -28,3 +28,4 @@ samples, guidance on mobile development, and a full API reference.
 2. 🟢Firebase Firestore  .
 3. 🟢GeoLocator Location 
 4. 🟢Fluttre Map.
+5. 🟢Google Sign In 
